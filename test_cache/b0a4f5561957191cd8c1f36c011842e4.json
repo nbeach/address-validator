@@ -1,0 +1,12 @@
+{
+   "lookups": [
+      {
+         "street": "1 Empora St",
+         "city": "Title",
+         "zipCode": "11111",
+         "match": "strict",
+         "maxCandidates": 1,
+         "result": []
+      }
+   ]
+}

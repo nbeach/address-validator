@@ -1,0 +1,61 @@
+{
+   "lookups": [
+      {
+         "street": "143 e Maine Street",
+         "city": "Columbus",
+         "zipCode": "43215",
+         "match": "strict",
+         "maxCandidates": 1,
+         "result": [
+            {
+               "inputIndex": 0,
+               "candidateIndex": 0,
+               "deliveryLine1": "143 E Main St",
+               "lastLine": "Columbus OH 43215-5370",
+               "deliveryPointBarcode": "432155370992",
+               "components": {
+                  "primaryNumber": "143",
+                  "streetName": "Main",
+                  "streetPredirection": "E",
+                  "streetSuffix": "St",
+                  "cityName": "Columbus",
+                  "defaultCityName": "Columbus",
+                  "state": "OH",
+                  "zipCode": "43215",
+                  "plus4Code": "5370",
+                  "deliveryPoint": "99",
+                  "deliveryPointCheckDigit": "2"
+               },
+               "metadata": {
+                  "recordType": "H",
+                  "zipType": "Standard",
+                  "countyFips": "39049",
+                  "countyName": "Franklin",
+                  "carrierRoute": "C023",
+                  "congressionalDistrict": "03",
+                  "buildingDefaultIndicator": "Y",
+                  "rdi": "Commercial",
+                  "elotSequence": "0237",
+                  "elotSort": "A",
+                  "latitude": 39.9567,
+                  "longitude": -82.99384,
+                  "coordinateLicense": "SmartyStreets",
+                  "precision": "Zip9",
+                  "timeZone": "Eastern",
+                  "utcOffset": -5,
+                  "obeysDst": true
+               },
+               "analysis": {
+                  "dpvMatchCode": "D",
+                  "dpvFootnotes": "AAN1",
+                  "cmra": "N",
+                  "vacant": "N",
+                  "noStat": "Y",
+                  "active": "Y",
+                  "footnotes": "H#M#"
+               }
+            }
+         ]
+      }
+   ]
+}
